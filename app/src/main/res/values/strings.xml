@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">European Countries</string>
+    <string name="title">European Countries</string>
+    <string name="no_articles_error_message">Unable to fetch data please check your network connection.</string>
+    <string name="no_articles_api_error_message">Unable to fetch country data from server. Please try again later !</string>
+    <string name="something_went_wrong">Something Wen\'t Wrong. Please try again later !</string>
+    <string name="region">Region: </string>
+    <string name="subregion">Sub-Region:</string>
+    <string name="population">Population: </string>
+    <string name="area">Area: </string>
+    <string name="currency">Currency: </string>
+    <string name="language">Language: </string>
+</resources>
